@@ -1,0 +1,85 @@
+[
+    {
+        "key": "1U",
+        "name": "Sara Miller Peony",
+        "brand":"Fossil",
+        "price": "$79.00",
+        "description": "Enjoy the Peony's uplifting timeless beauty and soft feminine charm. Presented in a beautiful foil pressed box, these watches will make the perfect",
+        "img": "https://i.ibb.co/LSQPgPk/sara-miller-3820-6030431-1.jpg"
+    },
+    {
+        "key": "2O",
+        "name": "Paul Hewitt Miss Ocean",
+        "brand":"Fossil",
+        "price": "$129.00",
+        "description": " Genuine Fossil watch ,up to 50 meters of water resistance and genuine metal strapColor golden, Case Shape: Round, Band Color",
+        "img": "https://i.ibb.co/C0G05zB/paul-hewitt-miss-ocean-ph-m-b-bs-4s.jpg"
+    },
+    {
+        "key": "3P",
+        "name": "Fossil-Townsman-Mens-Watch",
+        "brand":"Fossil",
+        "price": "59.00",
+        "description": "Color Black, Case Shape: Round, Band Color: Brown, Band Material: Leather, Watch Movement Type: Automatic, Watch Display",
+        "img": "https://i.ibb.co/bbFVMwL/Fossil-Townsman-Mens-Watch-Analog-Black-Dial-ME3061.jpg"
+    },
+    {
+        "key": "4K",
+        "name": "Bering Rose Gold Steel Mesh",
+        "brand":"Fossil",
+        "price": "$100.00",
+        "description": "Its a rose gold color watch, Case Shape: Round, Band Color: Brown, Band Material: Leather, Watch Movement Type: Automatic, Watch Display",
+        "img": "https://i.ibb.co/2y4YHzL/watch-woman-paul-hewitt-miss-ocean-phw530021.jpg"
+    },
+    {
+        "key": "5L",
+        "name": "TW Steel Maverick",
+        "brand":"Fossil",
+        "price": "$115.00",
+        "description": "With rich look of roman punctuated letters and dazzling white and brown combination of colours. Get ready for a party with this Grant watch",
+        "img": "https://i.ibb.co/5cGVSFJ/for-Men-Boy-Fashion-One-for-Male-Mens-Brand-Luxury-Hand-Watch.jpg"
+    },
+    {
+        "key": "6M",
+        "name": "Kenneth Cole Gift Set",
+        "brand":"Castus Fiesta",
+        "price": "$90.00",
+        "location":"Chittagong Division",
+        "description": "This watch is Color Black, Case Shape: Round, Band Color: Black, Band Material: Leather, Watch Movement Type: Automatic, Watch Display",
+        "img": "https://i.ibb.co/SK8Nv5x/kenneth-cole-men-s-leather-analog-watch-kc50589009.jpg"
+    },
+    {
+        "key": "7F",
+        "name": "Fossil FS5085 For Men (Exclusive Rose Gold)",
+        "brand":"Fossil",
+        "price": "$120.00",
+        "description": "100 Genuine Fossil watch ,up to 50 meters of water resistance and genuine leather strap",
+    "img":"https://i.ibb.co/nwP3VDJ/fossil-fs5085-for-men-exclusive-rose-gold.jpg"
+    },
+   
+    {
+        "key": "8G",
+        "name": "Rolex Oyster Perpetual",
+        "brand":"Rolex",
+        "price": "$180.00",
+        "description": "Rolex Genuine  watch  which is water resistance and genuine metal strapColor golden, Case Shape: Round.",
+        "img": "https://i.ibb.co/ZmSnQN1/145432928-99247501-1555781543.jpg"
+    },
+    {
+        "key": "9X",
+        "name": "Fossil FS4835 Mens Watch",
+        "brand":"Fossil",
+        "price": "$95.00",
+        "description": "Flaunt the rich look with roman punctuated letters and dazzling blue and gold combination of colours. Get ready for a party with this Grant watch ",
+        "img": "https://i.ibb.co/Jx6Hsx1/Fossil-Fs4835-Men-S-Watch-SDL252356650-1-aa162.jpg"
+    },
+  
+    {
+        "key": "10Q",
+        "name": "Esprit Kyla 2 Tone",
+        "brand":"Titan",
+        "price": "$50.00",
+        "description": "This is an eye catching watch with rose and golden color combination and rounded case shape and best quality pf watch.",
+        "img": "https://i.ibb.co/YXTsnmg/ES1-L228-M0055-3.jpg"
+    }
+]
